@@ -1,8 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Java Backend Web Development Patikası kapsamında açtığım ilk repo.
 ---
--Java
--Git Dersleri
+- Java
+- Git Dersleri
 
 * [Kodluyoruz Java Backend Web Development Patikası](https://app.patika.dev/egitimler/baslangic-seviye-java-ile-backend-web-development-patikasi)
 
